@@ -4,10 +4,13 @@
 
 | browser | 버전 | 최근 업데이트일 |
 | ------- | ---- | --------------- |
-| chrome  | v1.0 | 2020.11.05      |
-| whale   | v1.0 | 2020.11.05      |
+| chrome  | v1.0.1 | 2020.11.11      |
+| whale   | v1.0.1 | 2020.11.11      |
 
 **Whale브라우저**와 **chrome브라우저** 모두 지원하고 있습니다.
+
+- [whale 브라우저 다운](https://store.whale.naver.com/detail/bjapjlbonnlnaeamlfoimpmcllcjkpdo)
+- [chrome 브라우저 지원 예정]()
 
 ## 기능
 
