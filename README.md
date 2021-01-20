@@ -41,3 +41,4 @@ Origin: 숙명여대 크롬 확장앱(퀵숙 Quick Sookmyung) - https://chrome.g
 
 ## 저작권
   - 로고와 확장앱 개발에 사용된 선문대학교 캐릭터(해달이) 및 로고의 저작권은 [선문대학교](https://www.sunmoon.ac.kr)에 있습니다.
+  - 확장앱에 사용된 아이콘은 [DinosoftLabs](https://www.flaticon.com/packs/school-and-education-41?word=school&k=1611137756788)에서 만든 아이콘을 사용 하였습니다.
