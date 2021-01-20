@@ -1,9 +1,10 @@
 # 클릭 선문!! Click Sunmoon
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Contact: kim@sungmin.dev](https://img.shields.io/badge/Contact-kim%40sungmin.dev-green)](mailto:kim@sungmin.dev)
 
-| browser | 버전 | 최근 업데이트일 |
-| ------- | ---- | --------------- |
+| browser | 버전   | 최근 업데이트일 |
+| ------- | ------ | --------------- |
 | chrome  | v1.0.1 | 2020.11.11      |
 | whale   | v1.0.1 | 2020.11.11      |
 
@@ -27,9 +28,16 @@
 - 공지사항
 - 선문가이드
 
-## 다른학교 확장 프로그램
-- 숙명대학교: **퀵숙 Quick Sook** [Download](https://chrome.google.com/webstore/detail/%ED%80%B5%EC%88%99-quick-sookmyung/ojiacghdlkbcfphkggebiiblbhheiopc) [Github](https://github.com/seohyun0120/Quick-Sook)
+## 본 레파지토리는 숙명여대 확장 앱인 **퀵숙**을 기반으로한 앱입니다.
+```
+// 웨일용
+Origin Repo: https://github.com/seohyun0120/Quick-Sook
+Origin: 숙명여대 웨일 확장앱(퀵숙 Quick Sookmyung) - https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai
 
-- 연세대학교: **고연세** [Download](https://chrome.google.com/webstore/detail/%EA%B3%A0%EC%97%B0%EC%84%B8-go-yonsei/gplnfbldjkejbkgoehgkppioiieipdia?hl=ko&) [Github](https://github.com/budlebee/GoYonsei)
+// 크롬용
+Origin Repo: https://github.com/seohyun0120/Quick-Sook
+Origin: 숙명여대 크롬 확장앱(퀵숙 Quick Sookmyung) - https://chrome.google.com/webstore/detail/%ED%80%B5%EC%88%99-quick-sookmyung/ojiacghdlkbcfphkggebiiblbhheiopc
+```
 
-- 고려대학교: **Go려대** [Download](https://chrome.google.com/webstore/detail/go%EB%A0%A4%EB%8C%80/cmlnmnacnpbnmleegbeffbohaidnpebd/related?hl=ko&)
+## 저작권
+  - 로고와 확장앱 개발에 사용된 선문대학교 캐릭터(해달이) 및 로고의 저작권은 [선문대학교](https://www.sunmoon.ac.kr)에 있습니다.
