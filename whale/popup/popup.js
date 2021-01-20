@@ -7,7 +7,7 @@ const openSunmooncalendarURL = "https://lily.sunmoon.ac.kr/Page/Story/SMEvents.a
 const openSunmoonBusURL = "https://lily.sunmoon.ac.kr/Page/About/About08_04_01.aspx";
 const openSunmoonNoticeURL = "https://lily.sunmoon.ac.kr/Page/Story/Notice.aspx";
 const openSunmoonGuideURL = "https://info.sunmoon.ac.kr/MainDefaultN.aspx";
-const easterEgg = "https://github.com/devsungmin/ClickSunmoon"
+const openSunmoonWebMailURL = "https://mail.sunmoon.ac.kr/index.ds"
 
 function openURL(url) {
   whale.tabs.create({ url });
@@ -22,4 +22,4 @@ document.getElementById("calendarSunmoon").addEventListener("click", () => { ope
 document.getElementById("busSunmoon").addEventListener("click", () => { openURL(openSunmoonBusURL) }, false);
 document.getElementById("noticeSunmoon").addEventListener("click", () => { openURL(openSunmoonNoticeURL) }, false);
 document.getElementById("guideSunmoon").addEventListener("click", () => { openURL(openSunmoonGuideURL) }, false);
-document.getElementById('clickEasterEgg').addEventListener("click", () => { openURL(easterEgg) }, false);
+document.getElementById("webMail").addEventListener("click", () => { openURL(openSunmoonWebMailURL) }, false);

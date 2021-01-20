@@ -7,7 +7,7 @@ body {
     background: #fff;
     color: #000;
 }
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
     body {
       width: 310px;
       min-height: 235px;
@@ -15,7 +15,7 @@ body {
       background: #000;
       color: #fff;
     }
-  }
+  } */
 
 img {
     width        : 30px;
@@ -27,6 +27,14 @@ img {
 img.icon-center {
     display: block;
     margin : auto;
+    border: dashed gray;
+}
+
+p.icon-name {
+  font-size  : 11px;
+  font-weight: bold;
+  font-family: 'Nanum Gothic';
+  margin-top: 10px;
 }
 
 img.sunmoonicon {
@@ -41,13 +49,6 @@ div.icon-wrapper {
     margin-top: 10px;
 }
 
-span {
-    font-size  : 11px;
-    font-weight: bold;
-    font-family: 'Nanum Gothic';
-}
-
-
 div.icon-container {
     width     : 75px;
     height    : 75px;
@@ -60,14 +61,14 @@ div.icon-container:hover {
     background-color: #009980;
     border-radius   : 15%;
 }
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
     div.icon-container:hover {
       background-color: #555555;
       border-radius: 15%;
     }
-  }
+  } */
 
-  div.sunmoonEasterEgg {
+  /* div.sunmoonEasterEgg {
     position: absolute;
     right: 1px;
     display: block;
@@ -88,7 +89,7 @@ div.easter-egg {
       background-color: #8ab6e9;
       border-radius: 5%;
     }
-  }
+  } */
 
 #grid {
     display              : grid;
