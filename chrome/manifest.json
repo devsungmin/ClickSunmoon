@@ -15,7 +15,8 @@
     }
   },
   "permissions": [
-    "tabs",
-    "<all_urls>"
+        "http://*.sunmoon.ac.kr/*",
+        "https://*.sunmoon.ac.kr/*",
+        "https://github.com/*",
   ]
 }
