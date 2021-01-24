@@ -15,8 +15,8 @@
     }
   },
   "permissions": [
-        "http://*.sunmoon.ac.kr/*",
-        "https://*.sunmoon.ac.kr/*",
-        "https://github.com/*",
+    "http://*.sunmoon.ac.kr/*",
+    "https://*.sunmoon.ac.kr/*",
+    "https://github.com/*"
   ]
 }
