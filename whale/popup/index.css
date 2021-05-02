@@ -7,6 +7,23 @@ body {
     background: #fff;
     color: #000;
 }
+
+#head {
+  text-align: center;
+}
+
+#click {
+  color: #009980;
+  font-weight: bold;
+  font-size: 24pt;
+}
+
+#sunmoon{
+  color: #E6005C;
+  font-weight: bold;
+  font-size: 24pt;
+}
+
 /* @media (prefers-color-scheme: dark) {
     body {
       width: 310px;
