@@ -7,6 +7,23 @@ body {
     background: #fff;
     color: #000;
 }
+
+#head {
+  text-align: center;
+}
+
+#click {
+  color: #009980;
+  font-weight: bold;
+  font-size: 24pt;
+}
+
+#sunmoon{
+  color: #E6005C;
+  font-weight: bold;
+  font-size: 24pt;
+}
+
 /* @media (prefers-color-scheme: dark) {
     body {
       width: 310px;
@@ -61,14 +78,14 @@ div.icon-container:hover {
     background-color: #009980;
     border-radius   : 15%;
 }
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
     div.icon-container:hover {
       background-color: #555555;
       border-radius: 15%;
     }
-  }
+  } */
 
-  div.sunmoonEasterEgg {
+  /* div.sunmoonEasterEgg {
     position: absolute;
     right: 1px;
     display: block;
@@ -89,7 +106,7 @@ div.easter-egg {
       background-color: #8ab6e9;
       border-radius: 5%;
     }
-  }
+  } */
 
 #grid {
     display              : grid;
