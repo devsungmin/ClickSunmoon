@@ -11,7 +11,7 @@
 **Whale브라우저**와 **chrome브라우저** 모두 지원하고 있습니다.
 
 - [whale 브라우저 다운](https://store.whale.naver.com/detail/bjapjlbonnlnaeamlfoimpmcllcjkpdo)
-- [chrome 브라우저 지원 예정]()
+- [chrome 브라우저 다운](https://chrome.google.com/webstore/detail/%ED%81%B4%EB%A6%AD-%EC%84%A0%EB%AC%B8-click-sunmoon/mkmdgpmokmfndgmnhdfccfddlfpdlfmp?hl=ko&authuser=3)
 
 ## 기능
 
