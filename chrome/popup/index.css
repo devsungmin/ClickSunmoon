@@ -24,16 +24,6 @@ body {
   font-size: 24pt;
 }
 
-/* @media (prefers-color-scheme: dark) {
-    body {
-      width: 310px;
-      min-height: 235px;
-      margin: 5px;
-      background: #000;
-      color: #fff;
-    }
-  } */
-
 img {
     width        : 30px;
     height       : 30px;
@@ -75,38 +65,9 @@ div.icon-container {
 }
 
 div.icon-container:hover {
-    background-color: #009980;
+    background-color: #EAEAEA;
     border-radius   : 15%;
 }
-/* @media (prefers-color-scheme: dark) {
-    div.icon-container:hover {
-      background-color: #555555;
-      border-radius: 15%;
-    }
-  } */
-
-  /* div.sunmoonEasterEgg {
-    position: absolute;
-    right: 1px;
-    display: block;
-    cursor: pointer;
-  }
-
-div.easter-egg {
-    width: 150px;
-    position: relative;
-  }
-
-  div.easter-egg:hover {
-    background-color: #f0f6fd;
-    border-radius: 5%;
-  }
-  @media (prefers-color-scheme: dark) {
-    div.easter-egg:hover {
-      background-color: #8ab6e9;
-      border-radius: 5%;
-    }
-  } */
 
 #grid {
     display              : grid;
@@ -118,4 +79,10 @@ div.easter-egg {
     display        : flex;
     justify-content: flex-start;
     flex-wrap      : wrap;
+}
+
+.footer{
+  background-color: #EAEAEA;
+  text-align: center;
+  font-size: 5px;
 }
